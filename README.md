@@ -4,3 +4,11 @@ Python 101
 * Topics: Machine Computing(MC)& Signal Processing(SP)& Version Control(VC)
 * Lanugague: Python 
 * Package: Jupyter
+
+
+Reference
+[https://www.sublimetext.com/]
+[https://github.com/]
+[https://brew.sh/]
+[https://code.visualstudio.com/]
+[https://www.jetbrains.com/pycharm/]
